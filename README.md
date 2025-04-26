@@ -38,14 +38,18 @@ Model: Random Forest Classifier
 
 Vectorization: TF-IDF
 
-The model and vectorizer were pre-trained and saved as model.pkl and vectorizer.pkl using pickle.
+The model and vectorizer were pre-trained and saved as RandomForest.pkl and vectorizer.pkl using pickle.
 
 ## 📁 Project Structure
 
 ├── app.py               # Streamlit app
-├── model.pkl            # Trained ML model
+
+├── RandomForest.pkl      # Trained ML model
+
 ├── vectorizer.pkl       # TF-IDF vectorizer
+
 ├── requirements.txt     # Python dependencies
+
 ├── README.md            # This file!
 
 ## ✨ Demo

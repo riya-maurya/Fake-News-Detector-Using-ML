@@ -41,15 +41,12 @@ Vectorization: TF-IDF
 The model and vectorizer were pre-trained and saved as model.pkl and vectorizer.pkl using pickle.
 
 ## 📁 Project Structure
-bash
-Copy
-Edit
+
 ├── app.py               # Streamlit app
 ├── model.pkl            # Trained ML model
 ├── vectorizer.pkl       # TF-IDF vectorizer
 ├── requirements.txt     # Python dependencies
 ├── README.md            # This file!
-└── examples/            # Real and fake news examples
 
 ## ✨ Demo
 Deploy on Streamlit Cloud for free!

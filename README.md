@@ -54,6 +54,7 @@ The model and vectorizer were pre-trained and saved as RandomForest.pkl and vect
 
 ## ✨ Demo
 Deploy on Streamlit Cloud for free!
+
 LINK: https://fake-news-detector-using-ml-qbv32pbpnmgb9ty5upv6gj.streamlit.app/
 
 ## 📬 Contact
